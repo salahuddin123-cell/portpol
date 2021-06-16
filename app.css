@@ -1,0 +1,156 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    background-color:white;
+    height: 500px;
+    
+}
+.hero{
+    height: 100vh;
+    background-color: rgb(27, 28, 29);
+    color: white;
+    font-size: 40px;
+}
+footer{
+    height: 100px;
+    background-color: black;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+   
+    font-size: 30px;
+    justify-content: space-around;
+}
+li{
+    width: 200px;
+    text-decoration: none;
+}
+a:hover{
+    color: aqua;
+}
+.hero_text{
+    margin-left: 88px;
+    margin-bottom: 200px;
+}
+.hero_area{
+    display: flex;
+    height: 100%;
+    justify-content:space-between;
+    align-items: center;
+    
+}
+.button{
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: coral;
+    border-radius: 25px;
+    align-items: center;
+    font-size: 30px;
+    padding: 5px;
+    font-weight: 300;
+}
+h1{
+    font-size: 90px;
+    margin: 0;
+}
+p{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 300;   
+}
+.information p{
+    font-size: 25px;
+    margin: 0;
+    font-weight: 400; 
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.socials{
+    padding-bottom: 200px;
+
+}
+.social{
+    margin: 20px;
+}
+
+.logo{
+    height: 120px;
+}
+
+.subs-section{
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+   
+}
+.img1{
+    width: 300px;
+    border-radius: 150px;
+    
+}
+h2{
+    font-size: 50px;
+}
+.sub-text{
+   font-size: 15px;
+   font-weight: 300;
+}
+.headshot-container{
+    display: flex;
+    align-items: center;
+}
+.project-card{
+    width: 250px;
+    height: 450px;
+    box-shadow:5px 5px 20px grey;
+}
+.project-container{
+    display: flex;
+    justify-content: space-around;
+   
+   
+
+}
+.sub-section-alternative{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 80px;
+    margin-bottom: 60px;
+
+    
+}
+.project-imahe{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-top: 25px;
+}
+.foter{
+
+}
+footer{
+    color: white;
+    
+    text-align: center;
+    
+}
+footer p{
+    padding-top: 35px;
+ font-size: 25;
+}
+.view a{
+    color:rgb(0, 255, 76);
+    font-size: 25px;
+    font-weight: 600;
+}
