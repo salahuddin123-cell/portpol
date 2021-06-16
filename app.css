@@ -127,8 +127,10 @@ h2{
     text-align: center;
     padding: 80px;
     margin-bottom: 60px;
-    padding-top: 50px;
     
+}
+.sub-section-alternative h2{
+    padding-top: 100px
 }
 .project-imahe{
     width: 200px;
